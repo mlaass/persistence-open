@@ -1,0 +1,6 @@
+*.pdf
+main
+*.out
+sf.tmp
+trash.cpp
+*.tmp
